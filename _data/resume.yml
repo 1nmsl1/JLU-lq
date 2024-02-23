@@ -53,9 +53,7 @@ main: #简历主要内容，
 - type: hobbies #类别为ID
   name: 兴趣爱好 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 篮球
-  - title: 登山
-  - title: 阅读
+  - title: 篮球、登山、阅读
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组
